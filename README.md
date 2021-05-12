@@ -29,9 +29,9 @@
 	* Make the app permission to - ***```Read, Write, and Direct Messages```***
 	* Save the **Consumer Key, Consumer Secret Key, Access Key and Access Token Secret** in project folder under ***```.env file```*** as the following format - 
 		* Consumer_Key=XXXXXXXXXXXXXXXXX
-Consumer_Secret_Key=XXXXXXXXXXXXXXXXX
-Access_Token=XXXXXXXXXXXXXXXXX
-Access_Token_Secret=XXXXXXXXXXXXXXXXX
+		* Consumer_Secret_Key=XXXXXXXXXXXXXXXXX
+		* Access_Token=XXXXXXXXXXXXXXXXX
+		* Access_Token_Secret=XXXXXXXXXXXXXXXXX
 * Go to your project folder using your shell and run the following code to install all the required modules - <br> **```pip install -r requirements.txt```**
 * Now you are good to go to run the bot using [**Heroku Schedular**](https://devcenter.heroku.com/articles/scheduler) or [**WayScript Time trigger**](https://wayscript.com/blog/schedule-python-script-run-daily).
 * Also you can implement **while True infinite loop** to run forever.
