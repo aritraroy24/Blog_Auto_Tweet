@@ -43,7 +43,7 @@
 * Send a **PR**
 
 ## Found a bug :x::x::x:
-Don' t worry I am always here to help you. Create a issue [HERE](https://github.com/aritraroy24/python_projects/issues)
+Don' t worry I am always here to help you. Create a issue [HERE](https://github.com/aritraroy24/Blog_Auto_Tweet/issues)
 
 ## Loved My Work :heart_eyes::heart_eyes::heart_eyes:
 You can  help me by contributing here :point_right: <a href="https://www.buymeacoffee.com/aritraroy24" ><img align="center" src="https://www.linkpicture.com/q/buycoffee.png" width="150" /></a>
